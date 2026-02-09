@@ -4,7 +4,7 @@ body
   background: linear-gradient(135deg, #f8f9ff, #f1f5f9);
   margin: 0;
   padding: 0;
-  background-image: url("background.jpg");
+  background-image: url("/background.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
